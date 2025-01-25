@@ -1,5 +1,3 @@
-[![Discord](https://variety.com/wp-content/uploads/2024/01/MrBeast-Amazon-Prime-Video.jpg)](https://arkoselabs.com) 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/860865950945378325) 
 
